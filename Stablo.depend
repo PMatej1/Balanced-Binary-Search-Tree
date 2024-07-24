@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1641487530 source:c:\users\admin\desktop\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1641487514 c:\users\admin\desktop\stablo\stablo.h
+	<utility>
+	"stablo.cpp"
+
+1641487547 c:\users\admin\desktop\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1641486929 source:c:\users\admin\desktop\stablo\stablo.cpp
+	"stablo.h"
+
+1673435762 source:c:\users\matej\downloads\stablo\stablo\main.cpp
+	<iostream>
+	"stablo.h"
+
+1673434346 c:\users\matej\downloads\stablo\stablo\stablo.h
+	<utility>
+	<vector>
+	<iostream>
+	"stablo.cpp"
+
+1673435546 c:\users\matej\downloads\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1673435546 source:c:\users\matej\downloads\stablo\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1673689732 source:c:\users\matej\desktop\projekat\stablo - copy\main.cpp
+	<iostream>
+	"stablo.h"
+
+1673892962 c:\users\matej\desktop\projekat\stablo - copy\stablo.h
+	<utility>
+	<vector>
+	<iostream>
+	"stablo.cpp"
+
+1673893028 c:\users\matej\desktop\projekat\stablo - copy\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1673893028 source:c:\users\matej\desktop\projekat\stablo - copy\stablo.cpp
+	"stablo.h"
+	<iostream>
+
